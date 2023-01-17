@@ -5,9 +5,9 @@ Dependencies:
 
 For Ubuntu, Debian and LinuxMint
 
-*sudo apt-get install libc6-dev 
+sudo apt-get install libc6-dev 
 
-*For CentOS, RHEL & Fedora
+For CentOS, RHEL & Fedora
 
 sudo yum install glibc-devel
 _____________________________________________________________________
