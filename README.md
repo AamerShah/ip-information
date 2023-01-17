@@ -1,17 +1,11 @@
 # ip-information, a light-weight Linux based binary tool / utility.
 Verbose information with regards to a dot-decimal IP format.
 
-For Windoes OS: Run the up.exe from cmd and use as mentioned in usage.
+For Windoes OS: Run the ip.exe from cmd and use as mentioned in usage.
 _____________________________________________________________________
-For Linux some dependencies are required!
+For Linux some dependencies are required to run ip.x file (currently not uploaded in this repo).
 
-For Ubuntu, Debian and LinuxMint
-
-sudo apt-get install libc6-dev 
-
-For CentOS, RHEL & Fedora
-
-sudo yum install glibc-devel
+Coming Soon
 _____________________________________________________________________
 Usage: ip.x <IP>
 Example: #ip.x 1.1.1.1
