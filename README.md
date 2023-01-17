@@ -1,5 +1,12 @@
 # ip-information, a light-weight Linux based binary tool / utility.
-Verbose information with regards to a dot-decimal IP format
+Verbose information with regards to a dot-decimal IP format.
+
+##Dependencies:
+###For Ubuntu, Debian and LinuxMint
+####sudo apt-get install libc6-dev 
+
+###For CentOS, RHEL & Fedora
+####sudo yum install glibc-devel
 
 Usage: ip.x <IP>
 Example: #ip.x 1.1.1.1
