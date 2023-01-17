@@ -1,4 +1,4 @@
-# ip-information
+# ip-information, a light-weight Linux based binary tool / utility.
 Verbose information with regards to a dot-decimal IP format
 
 Usage: ip.x <IP>
