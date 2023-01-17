@@ -1,7 +1,9 @@
 # ip-information, a light-weight Linux based binary tool / utility.
 Verbose information with regards to a dot-decimal IP format.
+
+For Windoes OS: Run the up.exe from cmd and use as mentioned in usage.
 _____________________________________________________________________
-Dependencies:
+For Linux some dependencies are required!
 
 For Ubuntu, Debian and LinuxMint
 
