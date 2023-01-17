@@ -5,9 +5,9 @@ Dependencies:
 
 For Ubuntu, Debian and LinuxMint
 
-sudo apt-get install libc6-dev 
+*sudo apt-get install libc6-dev 
 
-For CentOS, RHEL & Fedora
+*For CentOS, RHEL & Fedora
 
 sudo yum install glibc-devel
 _____________________________________________________________________
@@ -17,4 +17,5 @@ Example: #ip.x 1.1.1.1
 Note: If IP address is not specified. Your public IP shall be used.
 _____________________________________________________________________
 License: Attribution-NoDerivs 3.0 Unported (CC BY-ND 3.0)
+
 License Details: https://creativecommons.org/licenses/by-nd/3.0/
